@@ -23,9 +23,11 @@ Seven Ark provides a toolkit to evaluate testability, clarity, and adaptability 
 
 ## 📘 What’s Inside
 
-- 🧭 [CORE Overview](./docs/core-overview.md)
+- 🧭 [CORE Framework Overview](./docs/core-overview.md)
+- ✅ [CORE Framework Quick Check](./docs/quick-check.md)
+- 🧪 [CORE Framework Practical Use](./docs/practical-guide.md)
+- 📘 [CORE Framework Usage Guide](./docs/usage-guide.md)
 - 🛠 [Seven Ark Guide](./docs/seven-ark.md)
-- 🧪 [CORE Practical Use](./docs/core-practical-guide.md)
 - ✅ [Seven Ark Checklist](./docs/seven-ark-checklist.md)
 - 
 ## Resources

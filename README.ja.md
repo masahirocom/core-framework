@@ -12,8 +12,8 @@
 
 ## フレームワークの構造
 
-- 🧭 **CORE** - 思考を方向付ける4つの本質的なデザインクエスチョン
-- 7つの方舟** - アーキテクチャを検証し、洗練させるための7つの実践的な視点
+- **CORE** - 思考を方向付ける4つの本質的なデザインクエスチョン
+- **7つの方舟** - アーキテクチャを検証し、洗練させるための7つの実践的な視点
 
 COREは設計意図と構造をナビゲートするコンパスを提供する、  
 セブン・アークは、テスト可能性、明快さ、適応性を詳細に評価するためのツールキットを提供します。
@@ -21,11 +21,12 @@ COREは設計意図と構造をナビゲートするコンパスを提供する�
 
 ## 📘内容
 
-- 🧭 [CORE の概要](./docs/core-overview.ja.md)
-- 😎 [セブン・アークガイド](./docs/seven-ark.ja.md)
+- 🧭 [COREフレームワークの概要](./docs/core-overview.ja.md)
+- ✅ [COREフレームワーク クイックチェック](./docs/quick-check.ja.md)
 - 🧪 [CORE実践活用ガイド](./docs/core-practical-guide.ja.md)
+- 📘 [CORE Framework Usage Guide](./docs/usage-guide.ja.md)
+- 😎 [セブン・アークガイド](./docs/seven-ark.ja.md)
 - ✅ [セブン・アーク・チェックリスト](./docs/seven-ark-checklist.ja.md)
-
 
 ## ライセンス
 本リポジトリのドキュメント・図解はすべて  
