@@ -73,5 +73,12 @@ These are optional prompts to help you dig deeper when the main question isn't e
 
 ---
 
+## 🛠 Want More?
+
+To explore the practical side of design review and validation,  
+see [Seven Ark – The Seven Design Perspectives](./seven-ark.md)
+
+---
+
 > CORE Design Framework  
 > Author: Masahiro Nakatsugawa

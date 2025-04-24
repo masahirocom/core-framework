@@ -12,10 +12,25 @@ It helps teams uncover weak points in architecture, design, and strategy by aski
 | R: Reaction  | What changes when this action is taken?    |
 | E: Evolution | Can this design withstand future changes?  |
 
+## 📘 Framework Structure
+
+- 🧭 **CORE** – 4 essential design questions to direct your thinking
+- 🛠 **Seven Ark** – 7 practical perspectives to validate and refine your architecture
+
+While CORE offers a compass to navigate design intent and structure,  
+Seven Ark provides a toolkit to evaluate testability, clarity, and adaptability in detail.
+
+
+## 📘 What’s Inside
+
+- 🧭 [CORE Overview](./docs/core-overview.md)
+- 🛠 [Seven Ark Guide](./docs/seven-ark.md)
+- 🧪 [CORE Practical Use](./docs/core-practical-guide.md)
+- ✅ [Seven Ark Checklist](./docs/seven-ark-checklist.md)
+- 
 ## Resources
 
 - [Full Japanese Guide](./README.ja.md)
-- Checklists and practical examples available under `docs/`
 
 ## License
 
