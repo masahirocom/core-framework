@@ -50,7 +50,7 @@
 **CORE**は**何を尋ねるべきか**を導き、**Seven Ark**は**どのように評価するか**を導きます。  
 これらは統一されたシステムとして最も効果的に機能します。
 
-📘 [CORE + Seven Ark概要](./core-overview.md)を参照
+📘 [CORE Framework概要](./core-overview.ja.md)を参照
 
 ---
 
@@ -75,7 +75,7 @@
 
 ## ✅ 関連ツール
 
-- [Seven Arkチェックリスト](./seven-ark-checklist.md) – 実用的な質問ベースの評価シート
+- [Seven Arkチェックリスト](./seven-ark-checklist.ja.md) – 実用的な質問ベースの評価シート
 - [Seven Ark図（近日公開）] – 7つの視点の視覚的構造
 
 ---
