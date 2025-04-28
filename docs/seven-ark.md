@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 Why "Seven Ark"?
+## 🌈 Why "Seven Ark"?
 
 - **Seven** symbolizes completeness—like the seven colors of the rainbow or seven notes of a musical scale.
 - **Ark** is a vessel that preserves and carries what's important across time and change.

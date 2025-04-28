@@ -1,10 +1,12 @@
 # CORE フレームワーク（日本語）
 
 ## 概要
+
 **COREフレームワーク**は、「問い」によって設計やアイデアを点検・洗練させるためのシンプルで強力な設計支援フレームワークです。  
 プログラマー、ノンプログラマーの両方が使えるように設計されています。
 
 ## 特徴
+
 - たった4つの「問い」で構成
 - 抜け・矛盾・曖昧な前提に気づける
 - ソフトウェア設計、ビジネス設計、教育、研究など幅広く活用可能
@@ -18,12 +20,11 @@
 COREは設計意図と構造をナビゲートするコンパスを提供する、  
 セブン・アークは、テスト可能性、明快さ、適応性を詳細に評価するためのツールキットを提供します。
 
-
 ## 📘内容
 
 - 🧭 [COREフレームワークの概要](./docs/core-overview.ja.md)
 - ✅ [COREフレームワーク クイックチェック](./docs/quick-check.ja.md)
-- 🧪 [CORE実践活用ガイド](./docs/core-practical-guide.ja.md)
+- 🧪 [CORE実践活用ガイド](./docs/practical-guide.ja.md)
 - 📘 [CORE Framework Usage Guide](./docs/usage-guide.ja.md)
 - 😎 [セブン・アークガイド](./docs/seven-ark.ja.md)
 - ✅ [セブン・アーク・チェックリスト](./docs/seven-ark-checklist.ja.md)
